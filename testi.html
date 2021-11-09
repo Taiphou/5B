@@ -14,16 +14,20 @@
 }
 .nav {
   background-color: #209b9b;
-  float: left;
+  float: none;
   padding: 15px;
   height: 5%;
 }
   
-.column {
+.column1 {
   float: left;
   padding: 15px;
 }
-
+  
+.column2 {
+  float: right;
+  padding: 15px;
+}
 .clearfix::after {
   content: "";
   clear: both;
@@ -69,7 +73,7 @@
 </div>
   
 <div class="clearfix">
-  <div class="column menu">
+  <div class="column1 menu">
     <ul>
       <li>The Flight</li>
       <li>The City</li>
@@ -78,7 +82,7 @@
     </ul>
   </div>
 
-  <div class="column content">
+  <div class="column2 content">
     <h1>Tämä on sisällön otsikko</h1>
     <p>Ennen sisällössä pöllöt huhuili ja rotat riehui.</p>
     <p>Vain hiljaisuus jäljellä.</p>

@@ -34,6 +34,6 @@ div.footer {
 
 } 
 
-ul {
+ul.turtle {
   list-style-type: url('turtles.gif');
 }

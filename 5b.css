@@ -34,7 +34,7 @@ div.article {
 } 
 
 div.footer {
-  display: inline;
+  background-color: #ed553b;
   border-radius: 2px;
   border-style: double;
   border-width: 2px;

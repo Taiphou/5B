@@ -39,3 +39,7 @@ div.footer {
   border-style: double;
   border-width: 2px;
 } 
+
+ul {
+  list-style-type: url('turtles.gif');
+}

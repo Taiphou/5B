@@ -1,5 +1,5 @@
-div.header {
-  display: inline;
+div.header1 {
+  background-color: #20639b
   border-radius: 2px;
   border-style: double;
   border-width: 2px;
@@ -13,33 +13,25 @@ div.nav {
 } 
 
 div.section {
-  display: inline;
-  border-radius: 2px;
-  border-style: double;
-  border-width: 2px;
+background-color: #008000;
+
 } 
 
 div.aside {
-  display: inline;
-  border-radius: 2px;
-  border-style: double;
-  border-width: 2px;
+  background-color: #808080;
+
 } 
 
 div.article {
-  display: inline;
-  border-radius: 2px;
-  border-style: double;
-  border-width: 2px;
+  background-color: #FFFF00;
+
 } 
 
 div.footer {
-  background-color: #ed553b;
-  border-radius: 2px;
-  border-style: double;
-  border-width: 2px;
+  background-color: #800080;
+
 } 
 
-ul {
+ul.ul1 {
   list-style-type: url('turtles.gif');
 }

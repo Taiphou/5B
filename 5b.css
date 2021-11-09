@@ -1,0 +1,41 @@
+div.header {
+  display: inline;
+  border-radius: 2px;
+  border-style: double;
+  border-width: 2px;
+} 
+
+div.nav {
+  background-color: #ed553b;
+  border-radius: 2px;
+  border-style: solid black;
+  border-width: 2px;
+} 
+
+div.section {
+  display: inline;
+  border-radius: 2px;
+  border-style: double;
+  border-width: 2px;
+} 
+
+div.aside {
+  display: inline;
+  border-radius: 2px;
+  border-style: double;
+  border-width: 2px;
+} 
+
+div.article {
+  display: inline;
+  border-radius: 2px;
+  border-style: double;
+  border-width: 2px;
+} 
+
+div.footer {
+  display: inline;
+  border-radius: 2px;
+  border-style: double;
+  border-width: 2px;
+} 
